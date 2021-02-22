@@ -16,6 +16,11 @@
       "src": "./icon-64x64.png",
       "sizes": "64x64",
       "type": "image/png"
+    },
+    {
+      "src": "./icon-512x512-blurry.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "start_url": "./index.html",
