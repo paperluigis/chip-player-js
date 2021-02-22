@@ -4,7 +4,7 @@
   "icons": [
     {
       "src": "./chip-player-js.ico",
-      "sizes": "64x64 16x16",
+      "sizes": "512x512 16x16",
       "type": "image/x-icon"
     },
     {
@@ -14,7 +14,7 @@
     },
     {
       "src": "./icon-64x64.png",
-      "sizes": "64x64",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
